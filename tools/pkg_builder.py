@@ -145,5 +145,5 @@ def create_pkg(input_dir, output_pkg, content_id="IV0000-RGBC00001_00-ROGUEBYTE0
 
 if __name__ == '__main__':
     in_dir = sys.argv[1] if len(sys.argv) > 1 else '.'
-    out_pkg = sys.argv[2] if len(sys.argv) > 2 else 'build/RogueByte_Controller_Lab.pkg'
+    out_pkg = sys.argv[2] if len(sys.argv) > 2 else 'dist/RogueByte_Controller_Lab.pkg'
     create_pkg(in_dir, out_pkg)
