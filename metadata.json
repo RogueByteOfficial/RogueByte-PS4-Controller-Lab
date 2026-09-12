@@ -2,5 +2,4 @@
   "name": "RogueByte PS4 Controller Lab",
   "description": "Native PS4 Homebrew Application for DualShock 4 Diagnostics, Stick Drift Detection & Calibration",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
